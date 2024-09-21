@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
-st.set_option('deprecation.showPyplotGlobalUse', False)
+# st.set_option('deprecation.showPyplotGlobalUse', False)
 st.title('Sentimental Analysis of Tweets about US Airlines')
 st.sidebar.title('Sentimental Analysis of Tweets about US Airlines')
 
